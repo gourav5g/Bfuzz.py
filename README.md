@@ -83,12 +83,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to modify any sections to better fit your project's needs!
 ```
-
-### How to Use This README
-
-1. **Copy the Markdown**: Select the entire text above and copy it.
-2. **Create a README.md File**: In your GitHub repository, create a new file named `README.md`.
-3. **Paste the Markdown**: Paste the copied text into the `README.md` file.
-4. **Commit Changes**: Save and commit the changes to your repository.
-
-This README provides a clear overview of your tool, making it easy for users to understand its purpose, features, and how to get started.
